@@ -17,11 +17,6 @@ This project analyzes restaurant performance, customer demand, revenue trends, a
 - DAX
 - Excel
 
-- ## Dashboard Preview
--## Dashboard Preview
-
-![Dashboard](Zomato%20Dashboard.jpg) 
-
 - ## Project Workflow
 
 1. Data Import into MySQL
@@ -31,3 +26,10 @@ This project analyzes restaurant performance, customer demand, revenue trends, a
 5. KPI Creation using DAX
 6. Dashboard Development
 7. Business Insights and Recommendations
+
+- ## Dashboard Preview
+-## Dashboard Preview
+
+![Dashboard](Zomato%20Dashboard.jpg) 
+
+
